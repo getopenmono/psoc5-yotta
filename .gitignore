@@ -1,0 +1,4 @@
+build
+.yotta*
+.vscode
+yotta_targets

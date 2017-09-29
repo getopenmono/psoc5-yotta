@@ -1,0 +1,19 @@
+{
+  "name": "psoc5",
+  "version": "1.7.3",
+  "description": "Cypress PSOC5 C Libraries for OpenMono",
+  "keywords": [
+    "openmono",
+    "psoc5",
+    "embedded"
+  ],
+  "author": "Kristoffer Andersen <ka@openmono.com>",
+  "repository": {
+    "url": "https://github.com/getopenmono/mono_framework.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/getopenmono/mono_framework",
+  "license": "MIT",
+  "extraIncludes": ["include"],
+  "dependencies": {}
+}
